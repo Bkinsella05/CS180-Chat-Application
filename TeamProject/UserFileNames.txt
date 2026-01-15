@@ -1,0 +1,6 @@
+User1,user,,:User2|,
+User2,user,,:User1|,
+shirman,shirman,my bio is cooler than yours,,:bobby|
+bobby,bobby,my bio isn't as cool as shirman's,:shirman|,
+k,k,no,,:bobby|
+dudeman,dude,,,
